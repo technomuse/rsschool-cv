@@ -10,3 +10,9 @@ I am a beginner Front-end developer with basic knowledge of HTML, CSS and JavaSc
 🌐 **Web Development**: HTML, CSS  
 💾 **Databases**: MySQL  
 🛠️ **Tools & Platforms**: Git
+## Code Example
+```javascript
+function getChar(c){
+  return String.fromCharCode(c)
+}
+```
