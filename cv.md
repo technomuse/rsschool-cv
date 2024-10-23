@@ -16,3 +16,14 @@ function getChar(c){
   return String.fromCharCode(c)
 }
 ```
+## Education
+🏫 **Belarusian State University of Informatics and Radioelectronics**  
+*Faculty of Information Security, 2021-2025*  
+🏫 **English Papa**  
+*General English, 2023*
+## Languages
+| Language  | Proficiency  |
+|-----------|--------------|
+| Russian   | Native       |
+| English   | Intermediate (B2)|
+| German    | Basic (A2)   |
