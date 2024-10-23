@@ -22,8 +22,6 @@ function getChar(c){
 🏫 **English Papa**  
 *General English, 2023*
 ## Languages
-| Language  | Proficiency  |
-|-----------|--------------|
-| Russian   | Native       |
-| English   | Intermediate (B2)|
-| German    | Basic (A2)   |
+🇷🇺 **Russian**: Native  
+🇺🇸 **English**: Intermediate (B2)  
+🇩🇪 **German**: Basic (A2)
