@@ -19,7 +19,7 @@ function getChar(c){
 ## Education
 🏫 **Belarusian State University of Informatics and Radioelectronics**  
 *Faculty of Information Security, 2021-2025*  
-🏫 **English Papa**  
+📚 **English Papa**  
 *General English, 2023*
 ## Languages
 🇷🇺 **Russian**: Native  
